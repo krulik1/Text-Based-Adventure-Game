@@ -4,4 +4,4 @@
 * The game can be played by compiling and running from a shell of user's choice.
 * Further instructions can be found in Game.java
 
-© Jakub Krulik 2022
+© Jakub Krulik 2021 - 2022
