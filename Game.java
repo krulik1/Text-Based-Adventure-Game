@@ -17,7 +17,7 @@
  *
  * Purpose and Description:
  * The purpose of this program is to create an instance of the text-based
- * adventure game developed for the course of COMP268.
+ * adventure game.
  *
  * Compiling and Running Instructions
  *
@@ -1231,7 +1231,7 @@
 	 			inp = stdin.nextLine();
 	 			//System.out.println("THIS:" +Control.me.current.next.description +"\n");
 	 			System.out.println(Control.process(inp.toLowerCase()));
-	 		} // this is proving to be more complicated than I expected. . .
+	 		} 
 
 	 		if (dead == true) {
 	 			System.out.println("You died.");
