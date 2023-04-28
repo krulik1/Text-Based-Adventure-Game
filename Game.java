@@ -3,7 +3,7 @@
  * title: Game.java
  * description: Creates and runs an instance of a text-based advanture game.
  * date: 07/09/2022
- * @author 3509416 Jakub Krulik
+ * @author Jakub Krulik
  * @version 02
  * @copyright 2021-2022 Jakub Krulik
  */
